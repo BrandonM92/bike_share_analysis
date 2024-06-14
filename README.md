@@ -1,8 +1,8 @@
 # bike_share_analysis
 Data Analysis Project done for Google's Data Analytics Capstone Project
 
-##RAW Data location - https://divvy-tripdata.s3.amazonaws.com/index.html
-##Tabelau Visualization - https://public.tableau.com/app/profile/brandon.mathews/viz/BikeShareDataAnalysis_17182916162670/VisualizationPart2 
+## RAW Data location - https://divvy-tripdata.s3.amazonaws.com/index.html
+## Tabelau Visualization - https://public.tableau.com/app/profile/brandon.mathews/viz/BikeShareDataAnalysis_17182916162670/VisualizationPart2 
 
 Assignment:
 # Cyclistic Bike-Share Analysis Case Study
